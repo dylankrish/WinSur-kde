@@ -1,6 +1,8 @@
-## WinSur KDE Theme
+## WinSur KDE Theme Legacy
 
-WinSur kde is a light clean theme for KDE Plasma desktop.
+This fork aims to preserve the old look of WinSur KDE
+
+WinSur KDE is a light and clean theme for the KDE Plasma desktop.
 
 In this repository you'll find:
 
